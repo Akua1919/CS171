@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g  -rdynamic CMakeFiles/opengl-basic.dir/src/tiny_obj_loader.cc.o CMakeFiles/opengl-basic.dir/src/main.cpp.o  -o opengl-basic -Wl,-rpath,/home/xiasuan/cs171-assignment2-Katou-Megumi/opengl-basic-linux/build libglad.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.2 -lGLU -lGL -lGLU -lGL 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/xiasuan/cs171-assignment4-Katou-Megumi/build",
+  "command": "/usr/bin/g++-7   -I/home/xiasuan/cs171-assignment4-Katou-Megumi/src -I/home/xiasuan/cs171-assignment4-Katou-Megumi/head -I/home/xiasuan/cs171-assignment4-Katou-Megumi/include  -g   -std=gnu++11 -o CMakeFiles/path-tracing.dir/src/main.cpp.o -c /home/xiasuan/cs171-assignment4-Katou-Megumi/src/main.cpp",
+  "file": "/home/xiasuan/cs171-assignment4-Katou-Megumi/src/main.cpp"
+}
+]

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/xiasuan/cs171-assignment3-Katou-Megumi/code/build",
+  "command": "/usr/bin/g++-7   -I/home/xiasuan/cs171-assignment3-Katou-Megumi/code/src -I/home/xiasuan/cs171-assignment3-Katou-Megumi/code/head -I/home/xiasuan/cs171-assignment3-Katou-Megumi/code/include  -g   -std=gnu++11 -o CMakeFiles/ray-tracing.dir/src/main.cpp.o -c /home/xiasuan/cs171-assignment3-Katou-Megumi/code/src/main.cpp",
+  "file": "/home/xiasuan/cs171-assignment3-Katou-Megumi/code/src/main.cpp"
+}
+]

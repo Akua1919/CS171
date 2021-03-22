@@ -1,0 +1,3 @@
+/home/xiasuan/cs171-assignment4-Katou-Megumi/build/CMakeFiles/rebuild_cache.dir
+/home/xiasuan/cs171-assignment4-Katou-Megumi/build/CMakeFiles/path-tracing.dir
+/home/xiasuan/cs171-assignment4-Katou-Megumi/build/CMakeFiles/edit_cache.dir

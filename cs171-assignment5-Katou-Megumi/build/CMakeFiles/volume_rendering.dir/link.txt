@@ -1,0 +1,1 @@
+/usr/bin/g++-7   -fopenmp -g    -rdynamic CMakeFiles/volume_rendering.dir/src/compositor.cpp.o CMakeFiles/volume_rendering.dir/src/main.cpp.o CMakeFiles/volume_rendering.dir/src/opticsData.cpp.o CMakeFiles/volume_rendering.dir/src/renderer.cpp.o CMakeFiles/volume_rendering.dir/src/volume.cpp.o  -o volume_rendering 

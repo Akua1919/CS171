@@ -1,0 +1,4 @@
+/home/xiasuan/cs171-assignment2-Katou-Megumi/opengl-basic-linux/build/CMakeFiles/rebuild_cache.dir
+/home/xiasuan/cs171-assignment2-Katou-Megumi/opengl-basic-linux/build/CMakeFiles/edit_cache.dir
+/home/xiasuan/cs171-assignment2-Katou-Megumi/opengl-basic-linux/build/CMakeFiles/glad.dir
+/home/xiasuan/cs171-assignment2-Katou-Megumi/opengl-basic-linux/build/CMakeFiles/opengl-basic.dir

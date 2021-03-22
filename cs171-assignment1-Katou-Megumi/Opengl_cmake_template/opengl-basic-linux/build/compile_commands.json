@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/xiasuan/cs171-assignment1-Katou-Megumi/Opengl_cmake_template/opengl-basic-linux/build",
+  "command": "/usr/bin/gcc-7 -Dglad_EXPORTS -I/home/xiasuan/cs171-assignment1-Katou-Megumi/Opengl_cmake_template/opengl-basic-linux/3rdLibs/glad/include  -g -fPIC   -o CMakeFiles/glad.dir/3rdLibs/glad/src/glad.c.o   -c /home/xiasuan/cs171-assignment1-Katou-Megumi/Opengl_cmake_template/opengl-basic-linux/3rdLibs/glad/src/glad.c",
+  "file": "/home/xiasuan/cs171-assignment1-Katou-Megumi/Opengl_cmake_template/opengl-basic-linux/3rdLibs/glad/src/glad.c"
+},
+{
+  "directory": "/home/xiasuan/cs171-assignment1-Katou-Megumi/Opengl_cmake_template/opengl-basic-linux/build",
+  "command": "/usr/bin/g++-7  -DGLFW_DLL -I/home/xiasuan/cs171-assignment1-Katou-Megumi/Opengl_cmake_template/opengl-basic-linux/3rdLibs/glad/include  -g   -std=gnu++11 -o CMakeFiles/opengl-basic.dir/src/main.cpp.o -c /home/xiasuan/cs171-assignment1-Katou-Megumi/Opengl_cmake_template/opengl-basic-linux/src/main.cpp",
+  "file": "/home/xiasuan/cs171-assignment1-Katou-Megumi/Opengl_cmake_template/opengl-basic-linux/src/main.cpp"
+}
+]

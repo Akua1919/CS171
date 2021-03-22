@@ -1,0 +1,1 @@
+/usr/bin/gcc-7 -fPIC -g  -shared -Wl,-soname,libglad.so -o libglad.so CMakeFiles/glad.dir/3rdLibs/glad/src/glad.c.o 
